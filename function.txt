@@ -3,4 +3,6 @@ public class Test(){
 	// Added from new feature
 	string firstName;
 
+	string middleName;
+	
 }
