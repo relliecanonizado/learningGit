@@ -16,4 +16,8 @@ public class Test(){
 	function test(){
 	
 	}
+	
+	function test3(){
+	
+	}
 }
