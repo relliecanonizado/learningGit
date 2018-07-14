@@ -10,10 +10,10 @@ public class Test(){
 	date birthDate
 	
 	function test(){
-	
+		console.writeline('test');
 	}
 	
-	function test(){
-	
+	function test2(){
+		console.writeline('test2');
 	}
 }
