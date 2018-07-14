@@ -10,11 +10,11 @@ public class Test(){
 	date birthDate
 	
 	function test(){
-	
+		System.out.printline("Test");
 	}
 	
-	function test(){
-	
+	function test2(){
+		System.out.printline("Test2");
 	}
 	
 	function test3(){
