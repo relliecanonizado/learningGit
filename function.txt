@@ -10,7 +10,6 @@ public class Test(){
 	date birthDate
 	
 	function test(){
-<<<<<<< HEAD
 		System.out.printline("Test");
 	}
 	
@@ -20,13 +19,11 @@ public class Test(){
 	
 	function test3(){
 		System.out.printline("Testing only");
-=======
 		console.writeline('test');
 	}
 	
 	function test2(){
 		console.writeline('test2');
->>>>>>> BugFix003
 	}
 	
 }
