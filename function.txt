@@ -8,4 +8,10 @@ public class Test(){
 	string lastName;
 
 	function test(){
+	
+	}
+	
+	function test(){
+	
+	}
 }
