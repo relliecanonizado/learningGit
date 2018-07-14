@@ -7,5 +7,9 @@ public class Test(){
 
 	string lastName;
 
+	date birthDate
+	
 	function test(){
+	
+	}
 }
