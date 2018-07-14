@@ -4,5 +4,6 @@ public class Test(){
 	string firstName;
 
 	string middleName;
-	
+
+	string lastName;
 }
